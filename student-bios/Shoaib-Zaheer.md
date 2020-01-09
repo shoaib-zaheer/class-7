@@ -1,4 +1,4 @@
-![My-Pic](My-pictuer.jpg)|
+![My-pictuer](https://user-images.githubusercontent.com/59531766/71894252-02a80f80-314e-11ea-8c0f-938a95a3f648.jpg)
 
 # Short Curriculum Vitae
 
